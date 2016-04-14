@@ -1,0 +1,6 @@
+EXPORTS
+WSPStartup = NewWSPStartup
+IsProcotolInstalled
+InstallProtocol
+RemoveProtocol
+SetLayerGUID
